@@ -1,0 +1,20 @@
+.sports-page{
+    padding: 10px;
+}
+
+.sports-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.sports-title{
+    padding: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-bottom: 1px solid #ddd;
+}
+
+.sports-page{
+    background-color: rgba(255, 248, 240, 0.808);
+}
